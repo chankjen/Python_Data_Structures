@@ -3,13 +3,15 @@
 staff = {
     101: {"name": "Dr. Smith", "role": "Cardiologist", "station": "ER"},
     202: {"name": "Nurse Lee", "role": "ICU", "station": "Ward 3B"},
-    303: {"name": "Dr. Patel", "role": "Radiologist", "station": "Lab 2"}
+    303: {"name": "Dr. Patel", "role": "Radiologist", "station": "Lab 2"}, 
+    404: {"name": "Dr. Hussain", "role" "Supervisor", "station", "theater"}
 }
 
 # Patient Records (ID → Medical History)
 patients = {
     "P881": {"name": "John Munae", "allergies": ["Penicillin"], "ward": "ICU"},
-    "P882": {"name": "Maria Garcia", "allergies": ["Smoke"], "ward": "Ward 4A"}
+    "P882": {"name": "Maria Garcia", "allergies": ["Smoke"], "ward": "Ward 4A"},
+    "p882": {"name": "Hassana Musa", "allergies": ["Maternity"], "ward": "Maternity ward"]
 }
 
 # Access data
